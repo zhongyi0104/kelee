@@ -94,33 +94,7 @@
             "mng_resource": { "icon_id": 0, "icon": "" }
         }
     ] end | 
-    if .ipad_upper_sections then .ipad_upper_sections = 
-    [
-        {
-            "id": 752,
-            "title": "创作首页",
-            "uri": "/uper/homevc",
-            "icon": "http://i0.hdslb.com/bfs/feed-admin/d20dfed3b403c895506b1c92ecd5874abb700c01.png",
-            "mng_resource": { "icon_id": 0, "icon": "" }
-        }
-    ] end | 
-    if .ipad_recommend_sections then .ipad_recommend_sections = 
-    [
-        {
-            "id": 755,
-            "title": "我的关注",
-            "uri": "bilibili://user_center/myfollows",
-            "icon": "http://i0.hdslb.com/bfs/feed-admin/fdd7f676030c6996d36763a078442a210fc5a8c0.png",
-            "mng_resource": { "icon_id": 0, "icon": "" }
-        },
-        {
-            "id": 756,
-            "title": "我的消息",
-            "uri": "bilibili://link/im_home",
-            "icon": "http://i0.hdslb.com/bfs/feed-admin/e1471740130a08a48b02a4ab29ed9d5f2281e3bf.png",
-            "mng_resource": { "icon_id": 0, "icon": "" }
-        }
-    ] end | 
+
     if .ipad_more_sections then .ipad_more_sections = 
     [
         {
