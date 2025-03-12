@@ -21,20 +21,7 @@
         tab_id: "热门tab",
         uri: "bilibili://pegasus/hottopic"
     },
-    {
-        pos: 4,
-        id: 545,
-        name: "动画",
-        tab_id: "bangumi",
-        uri: "bilibili://pgc/home"
-    },
-    {
-        pos: 5,
-        id: 151,
-        name: "影视",
-        tab_id: "film",
-        uri: "bilibili://pgc/cinema-tab"
-    }
+   
 ] | 
 .data.top = [
     {
