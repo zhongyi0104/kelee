@@ -37,10 +37,7 @@
             "style": 1,
             "button": {}
         },
-        
-            "style": 1,
-            "button": {}
-        },
+     
         {
           
             "items": [
